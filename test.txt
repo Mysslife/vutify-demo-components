@@ -1,0 +1,50 @@
+<!-- <div class="about">
+    <v-subheader class="grey--text">About</v-subheader>
+    <p class="red white--text">
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique porro
+      totam officia corporis odit, rerum tempora perspiciatis ipsa voluptatibus
+      quisquam nostrum dolores ut eum sint? Iste soluta libero veritatis facere!
+    </p>
+    <p class="pink lighten-4 red--text text--darken-4">
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ab esse commodi
+      possimus totam, reiciendis libero necessitatibus doloribus reprehenderit
+      explicabo mollitia neque? Velit officiis optio provident dolorem dolore
+      quae error soluta?
+    </p>
+
+    <h1 class="display-4">Massive display</h1>
+    <h4 class="display-1">Maller display</h4>
+    <p class="headline">This is a headline</p>
+    <p class="subheadline font-weight-bold">This is a subheading headline</p>
+    <p class="caption font-italic text-capitalize">This is a caption</p>
+
+    <v-btn class="pink white--text ma-2"> Click me </v-btn>
+    <v-btn depressed class="ma-2" color="pink" dark> Click me again</v-btn>
+    <v-btn color="pink" class="ma-2" text>Click me 3</v-btn>
+
+    <v-btn depressed class="pink white--text ma-2">
+      <v-icon left class="pa-2">mdi-email</v-icon>
+      <span>Email me</span>
+    </v-btn>
+
+    <v-btn small depressed class="pink white--text ma-2">
+      <v-icon left>mdi-email</v-icon>
+      <span>Email me</span>
+    </v-btn>
+
+    <v-btn large depressed class="pink white--text ma-2">
+      <span class="mr-8">Email me</span>
+      <v-icon large left>mdi-email</v-icon>
+    </v-btn>
+
+    <!-- Ví dụ: chỉ hidden trong phạm vi sm và md : HAY -->
+    <v-btn
+      class="hidden-sm-only hidden-md-only"
+      fab
+      depressed
+      dark
+      color="purple"
+    >
+      <v-icon>mdi-heart</v-icon>
+    </v-btn>
+  </div> -->
